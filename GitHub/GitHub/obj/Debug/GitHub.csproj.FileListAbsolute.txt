@@ -1,0 +1,7 @@
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\bin\Debug\GitHub.exe.config
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\bin\Debug\GitHub.exe
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\bin\Debug\GitHub.pdb
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\bin\Debug\Octokit.dll
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\obj\Debug\GitHub.csprojResolveAssemblyReference.cache
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\obj\Debug\GitHub.exe
+c:\egnyte\private\gudbi\documents\visual studio 2017\Projects\GitHub\GitHub\obj\Debug\GitHub.pdb
